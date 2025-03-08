@@ -48,4 +48,4 @@ Example: You can use multiple postal codes and look for a toddler spot that is i
 
 ![](images/sample-search.png)
 
-I hope this helps someone and may the odds ever be in your favour. It is a little ridiculous that I can even justify building this thing and I hope it becomes useless and obsolete someday. 
+I hope this helps someone and may the odds ever be in your favour. It is a little ridiculous that I can even justify building this thing and I hope it becomes obsolete someday. 
